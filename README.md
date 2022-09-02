@@ -14,6 +14,9 @@ git clone https://github.com/marcjoha/elgato.dart.git
 # Enter the directory
 cd elgato.dart
 
+# Fetch dependencies
+dart pub get
+
 # Compile to native code:
 dart compile exe elgato.dart
 
