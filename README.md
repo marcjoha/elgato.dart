@@ -42,6 +42,10 @@ Available commands:
 Run "elgato.dart help <command>" for more information about a command.
 ```
 
+To map the binary to a global hotkey, use either a 3rd party tool or wire things up manually
+via Mac's built-in Automator tool (using the "Run Shell script" action).
+[Instructions here](https://scriptingosx.com/2019/05/open-apps-with-custom-shortcut-in-macos/).
+
 ## Credits
 
 This is originally a fork of [Mike Fiedler's project](https://github.com/miketheman/elgato.dart),
